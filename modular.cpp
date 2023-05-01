@@ -3,7 +3,7 @@
 using namespace std;
 using lli = long long;
 const lli mod = 1e9+7;
-lli binaryexpo(lli a, lli n)
+lli binaryexpo(lli a, lli n) //O(log(n))
 {
     lli r = 1;
     while (n > 0)
