@@ -15,7 +15,8 @@
 // Output Format
 
 // For each query print how many numbers in the range [L,R] is good in a new line.
-#include <bits/stdc++.h>
+#include<iostream>
+#include<vector>
 using namespace std;
 const int N = 1000005;
 signed main()

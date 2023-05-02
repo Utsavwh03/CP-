@@ -1,6 +1,6 @@
 # CP-
-Algorithms
-Git command sot push changes to git
-git add .
-git commit -m "Mesage"
+Algorithms__
+Git command sot push changes to git__
+git add .__
+git commit -m "Mesage"__
 git push
